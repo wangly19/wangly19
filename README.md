@@ -2,10 +2,49 @@
 
 ### Hi Friend 👋
 
-2021年不知不觉快要过去了。
+Welcome to my homepage.
 
-也慢慢想维护下自己的 `github`，我也思考了几个方向。后续仓库会维护一些持续提升知识库。如`计算机基础知识`的学习·、`源码原理`的分析、`新技术探索`的实践等等内容。
+### 👨🏻‍💻 About me:
 
+- 😺 I really like frontend application.
+- 🥸 also continued to try other fields of study.
+- 🤗 hobbies are sports and photography.
 - 🌱 写作平台：<a href="https://juejin.cn/user/4248168660735310/posts">稀土掘金</a>
-- 💬 关于我：爱好美食，乐于分享。
-- 😄 联系方式：wx：Rzicon。
+
+### 🛠 Tech Stack:
+Some things used. 🧐
+
+##### Frontend
+  
+  <div>
+<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  </div>
+ 
+  ##### Backend
+  
+  <div>
+    <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  
+<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  </div>
+  
+  ##### IDE Tools
+  <div>
+    <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+    <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+    <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  </div>
+  
+  ##### Design
+  
+  <div>
+    <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  </div>
+  
+          
