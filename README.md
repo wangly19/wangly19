@@ -9,7 +9,7 @@ Welcome to my homepage.
 - 😺 I really like frontend application.
 - 🥸 also continued to try other fields of study.
 - 🤗 hobbies are sports and photography.
-- 🌱 写作平台：<a href="https://juejin.cn/user/4248168660735310/posts">稀土掘金</a>
+- 🌱 blog：<a href="https://juejin.cn/user/4248168660735310/posts">link & like </a>
 
 ### 🛠 Tech Stack:
 Some things used. 🧐
