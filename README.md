@@ -12,10 +12,11 @@ Welcome to my homepage.
 - 🌱 blog：<a href="https://juejin.cn/user/4248168660735310/posts">link & like </a>
 
 ### 🛠 Tech Stack:
+
 Some things used. 🧐
 
 ##### Frontend
-  
+
   <div>
 <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -30,6 +31,7 @@ Some things used. 🧐
     <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
 <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img width="64" height="64" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" />
   </div>
   
   ##### IDE Tools
@@ -46,5 +48,3 @@ Some things used. 🧐
   <div>
     <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   </div>
-  
-          
